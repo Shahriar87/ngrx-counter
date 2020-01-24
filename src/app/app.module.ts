@@ -10,7 +10,7 @@ import { ShowCounterComponent } from './show-counter/show-counter.component';
 
 @NgModule({
   declarations: [
-    // AppComponent,
+    AppComponent,
     ShowCounterComponent
   ],
   imports: [
